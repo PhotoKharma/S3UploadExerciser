@@ -1,0 +1,152 @@
+PODS:
+  - AWSiOSSDKv2 (2.0.8):
+    - AWSiOSSDKv2/AutoScaling
+    - AWSiOSSDKv2/AWSCore
+    - AWSiOSSDKv2/CloudWatch
+    - AWSiOSSDKv2/DynamoDB
+    - AWSiOSSDKv2/EC2
+    - AWSiOSSDKv2/ElasticLoadBalancing
+    - AWSiOSSDKv2/Kinesis
+    - AWSiOSSDKv2/S3
+    - AWSiOSSDKv2/SES
+    - AWSiOSSDKv2/SimpleDB
+    - AWSiOSSDKv2/SNS
+    - AWSiOSSDKv2/SQS
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/AutoScaling (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/AWSCore (2.0.8):
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/CloudWatch (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/DynamoDB (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/EC2 (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/ElasticLoadBalancing (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/Kinesis (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/S3 (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/SES (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/SimpleDB (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/SNS (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/SQS (2.0.8):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - Bolts (1.1.2)
+  - GZIP (1.0.3)
+  - Mantle (1.4.1):
+    - Mantle/extobjc
+  - Mantle/extobjc (1.4.1)
+  - Reachability (3.1.1)
+  - TMCache (1.2.1)
+  - UICKeyChainStore (1.0.5)
+  - XMLDictionary (1.4)
+
+DEPENDENCIES:
+  - AWSiOSSDKv2
+
+SPEC CHECKSUMS:
+  AWSiOSSDKv2: 47e457fefef3b521c6e37c037578a13912af37c1
+  Bolts: 2635e8698a630774689441047f3465d78c48d485
+  GZIP: f27c434ffee5e9a9b34f4e9c19e91350fa8bbde1
+  Mantle: 1ca9c0fa84d3d3fc98524e7229f30489b6dd44e5
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  TMCache: ed936c5b4684e4ea15113d46fba8829ed3baadad
+  UICKeyChainStore: 4f9719600cc70025064e26f28f1210bcfc3b0c35
+  XMLDictionary: 735e81b9a043e220b0d24e9d4f16719606f2e0fc
+
+COCOAPODS: 0.34.1
